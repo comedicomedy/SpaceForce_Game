@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NldCG5KaPtrt+EqYvHbVLOSHXOF2XNphnTxmiUVvgxrRu/B53HPpwpaed4DctBhxsJ1XX1KphACtM3fooNHh2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bsine\\Dropbox\\PC\\Desktop\\Libary Games\\GameBatt]le1\\Game battle\\Game battle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bsine\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\bsine\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

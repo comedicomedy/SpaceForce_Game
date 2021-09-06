@@ -1,0 +1,25 @@
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\Game battle.exe
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\Game battle.deps.json
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\Game battle.runtimeconfig.json
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\Game battle.runtimeconfig.dev.json
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\Game battle.dll
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\Game battle.pdb
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\obj\Debug\netcoreapp3.1\Game battle.csproj.AssemblyReference.cache
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\obj\Debug\netcoreapp3.1\Game battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\obj\Debug\netcoreapp3.1\Game battle.AssemblyInfoInputs.cache
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\obj\Debug\netcoreapp3.1\Game battle.AssemblyInfo.cs
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\obj\Debug\netcoreapp3.1\Game battle.csproj.CoreCompileInputs.cache
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\obj\Debug\netcoreapp3.1\Game battle.csproj.CopyComplete
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\obj\Debug\netcoreapp3.1\Game battle.dll
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\obj\Debug\netcoreapp3.1\Game battle.pdb
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\obj\Debug\netcoreapp3.1\Game battle.genruntimeconfig.cache
+C:\Users\bsine\Dropbox\PC\Desktop\Libary Games\GameBatt]le1\Game battle\bin\Debug\netcoreapp3.1\Content\player.xnb
